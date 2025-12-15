@@ -1,0 +1,7 @@
+{
+  "name": "情绪急救箱",
+  "description": "A compassionate AI companion designed to help you ground yourself during emotional storms. Select your emotion and let the guided process bring you back to calm.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
